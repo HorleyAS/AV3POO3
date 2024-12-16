@@ -1,4 +1,4 @@
-# Av3poo3
+# SIMPLE CRUD SPRING BOOT DOCKER
 
 Este projeto foi apresentado à disciplina de Programação Orientada a Objetos III, trata-se de um CRUD usando JAVA SPRING BOOT, DOCKER, Hibernate, Postman e TablePlus.
 
