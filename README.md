@@ -1,10 +1,10 @@
 # Av3poo3
 
-Este é um sistema de gerenciamento integrado, desenvolvido em Java com Spring Boot, para gerenciar alunos e suas informações. O sistema utiliza PostgreSQL como banco de dados e Docker para orquestrar os containers.
+Este projeto foi apresentado à disciplina de Programação Orientada a Objetos III, trata-se de um CRUD usando JAVA SPRING BOOT, DOCKER, Hibernate, Postaman e TablePlus.
 
 ## Funcionalidades
 
-- **Cadastro de Alunos**: Permite criar, editar, consultar e excluir alunos.
+- **Cadastro de Alunos**: Permite criar, editar, consultar e excluir dados da banco de dados por meios de requisições HTTP.
 - **Integração com Banco de Dados**: Utiliza PostgreSQL para armazenar os dados dos alunos.
 - **Dockerização**: A aplicação e o banco de dados estão configurados para rodar em containers Docker.
 
@@ -14,6 +14,8 @@ Este é um sistema de gerenciamento integrado, desenvolvido em Java com Spring B
 - **Spring Boot** (Framework Java)
 - **PostgreSQL** (Banco de Dados Relacional)
 - **Docker** (Containerização)
+- **Postman** (Testar as Requisições)
+- **TablePlus** (Conectar ao Banco de Dados containerizado)
 
 ## Pré-Requisitos
 
