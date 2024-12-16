@@ -25,9 +25,8 @@ Certifique-se de ter os seguintes pré-requisitos instalados em seu ambiente:
 - [Docker](https://www.docker.com/get-started)
 - [Postman](https://www.postman.com/) (opcional, para testar a API)
 
-## Como Rodar o Projeto
 
-### 1. Clonar o Repositório
+## Clonar o Repositório
 
 Primeiro, clone este repositório para sua máquina local:
 
