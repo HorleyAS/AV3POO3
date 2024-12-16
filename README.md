@@ -1,6 +1,6 @@
 # Av3poo3
 
-Este projeto foi apresentado à disciplina de Programação Orientada a Objetos III, trata-se de um CRUD usando JAVA SPRING BOOT, DOCKER, Hibernate, Postaman e TablePlus.
+Este projeto foi apresentado à disciplina de Programação Orientada a Objetos III, trata-se de um CRUD usando JAVA SPRING BOOT, DOCKER, Hibernate, Postman e TablePlus.
 
 ## Funcionalidades
 
