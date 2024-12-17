@@ -33,3 +33,12 @@ Primeiro, clone este repositório para sua máquina local:
 ```bash
 git clone https://github.com/seu-usuario/av3poo3.git
 cd av3poo3
+# Como executar o comando no CMD
+
+Para rodar o programa, abra o **Prompt de Comando (CMD)** e digite o seguinte comando:
+
+```cmd
+exemplo_comando --opcao valor
+git clone https://github.com/seu-usuario/av3poo3.git
+cd av3poo3
+
