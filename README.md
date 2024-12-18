@@ -22,6 +22,7 @@ Este projeto foi apresentado à disciplina de Programação Orientada a Objetos 
 Certifique-se de ter os seguintes pré-requisitos instalados em seu ambiente:
 
 - [Java 21 ou superior](https://adoptium.net/)
+- [Maven](maven.apache.org/download.cgi)
 - [Docker](https://www.docker.com/get-started)
 - [Postman](https://www.postman.com/) (opcional, para testar a API)
 
