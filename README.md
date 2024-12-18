@@ -28,7 +28,7 @@ Certifique-se de ter os seguintes pré-requisitos instalados em seu ambiente:
 
 ## Clonar o Repositório
 
-Primeiro, clone este repositório para sua máquina local:
+Clone este repositório para sua máquina local:
 
 ```bash
 git clone https://github.com/seu-usuario/av3poo3.git
